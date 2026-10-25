@@ -1,0 +1,6 @@
+{
+  "name": "OpenCanopy: Satellite dMRV & Carbon Protocol",
+  "description": "Open-source satellite Measurement, Reporting, and Verification (dMRV) and cross-border blockchain carbon registry auditing GEDI LiDAR, Sentinel-2, and OCO-2/3 telemetry under Paris Agreement Article 6.2 ITMO standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
